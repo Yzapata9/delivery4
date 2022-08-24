@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "project_number": "437041076753",
+    "firebase_url": "https://delivery-87506.firebaseio.com",
+    "project_id": "delivery-87506",
+    "storage_bucket": "delivery-87506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437041076753:android:7cab419149aa661d",
+        "android_client_info": {
+          "package_name": "com.venta_productos.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437041076753-l17qcrgno0q9l1jp0mrevq2j50j26jk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venta_productos.delivery",
+            "certificate_hash": "4e06dacea3ec19d1f6f62cb2f899c21e91ca2372"
+          }
+        },
+        {
+          "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF-fA6JuMO5NSMM04_PKkz1FB1eaQT3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437041076753:android:3402d9e1ad981fd2",
+        "android_client_info": {
+          "package_name": "com.venta_productos.delivery_comidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437041076753-kkq5k1t7no1l5bpnerjms3ojadi4lrua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venta_productos.delivery_comidas",
+            "certificate_hash": "4e06dacea3ec19d1f6f62cb2f899c21e91ca2372"
+          }
+        },
+        {
+          "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF-fA6JuMO5NSMM04_PKkz1FB1eaQT3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437041076753:android:2133cb90dc5eac41",
+        "android_client_info": {
+          "package_name": "com.venta_productos.delivery_negocios_transporte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437041076753-nlpqmf1ft3bknonjfgj47errm19l9mg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venta_productos.delivery_negocios_transporte",
+            "certificate_hash": "4e06dacea3ec19d1f6f62cb2f899c21e91ca2372"
+          }
+        },
+        {
+          "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF-fA6JuMO5NSMM04_PKkz1FB1eaQT3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437041076753:android:a4414f5039754d75",
+        "android_client_info": {
+          "package_name": "com.venta_productos.gps_location_for_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437041076753-e45f8r82vs89aamtk2tdhoakjuhjrlfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venta_productos.gps_location_for_delivery",
+            "certificate_hash": "4e06dacea3ec19d1f6f62cb2f899c21e91ca2372"
+          }
+        },
+        {
+          "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF-fA6JuMO5NSMM04_PKkz1FB1eaQT3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437041076753:android:f0f4f9bc5989d4e3",
+        "android_client_info": {
+          "package_name": "com.venta_productos.log_in_with_facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437041076753-8caqkmv25hjo5l47k1f2fnoqh459lp99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venta_productos.log_in_with_facebook",
+            "certificate_hash": "4e06dacea3ec19d1f6f62cb2f899c21e91ca2372"
+          }
+        },
+        {
+          "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF-fA6JuMO5NSMM04_PKkz1FB1eaQT3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437041076753:android:8f3c32b102eb6f6b",
+        "android_client_info": {
+          "package_name": "com.venta_productos.servicio_de_lectura_de_la_basededatos_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437041076753-6d8bsuh4csplissj4kjls6acvp7iu12h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venta_productos.servicio_de_lectura_de_la_basededatos_firebase",
+            "certificate_hash": "4e06dacea3ec19d1f6f62cb2f899c21e91ca2372"
+          }
+        },
+        {
+          "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF-fA6JuMO5NSMM04_PKkz1FB1eaQT3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437041076753:android:0b1605e8352b03c1",
+        "android_client_info": {
+          "package_name": "myown.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437041076753-qnl445fvjvhbf0njckckuinigrsh6ij2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myown.delivery",
+            "certificate_hash": "4e06dacea3ec19d1f6f62cb2f899c21e91ca2372"
+          }
+        },
+        {
+          "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF-fA6JuMO5NSMM04_PKkz1FB1eaQT3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437041076753-lciuv4k2vdu3psg6dup6vl8ra3891vqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

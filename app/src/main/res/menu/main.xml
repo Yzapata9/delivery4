@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/toolbal_menu_opciones"
+        android:orderInCategory="100"
+        android:title="Opciones"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/toolbal_menu_ver_carrito"
+        android:orderInCategory="100"
+        android:title="Ver carrito"
+        app:showAsAction="never" />
+
+
+</menu>

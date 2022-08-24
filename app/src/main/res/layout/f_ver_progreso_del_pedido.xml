@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/degrade_intento_4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/linear_ver_progreso_botones"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/texto_de_registro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="progreso del pedido" />
+
+        <TextView
+            android:id="@+id/texto1"
+            style="@style/texto_de_registro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="usuario" />
+
+        <GridView
+            android:id="@+id/gridview_progreso_pedido"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:numColumns="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_ver_progreso_botones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/BTN_progreso_pedido_ir_al_menu_principal"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:weightSum="2"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/BTN_progreso_pedido_actualizar"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/input_outline"
+            android:text="actualizar" />
+
+        <Button
+            android:id="@+id/BTN_progreso_pedido_ver_montos"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/input_outline"
+            android:text="ver montos" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/BTN_progreso_pedido_ir_al_menu_principal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/input_outline"
+        android:text="Ir al menu principal" />
+</RelativeLayout>

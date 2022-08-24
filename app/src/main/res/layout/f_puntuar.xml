@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fondo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/texto_de_registro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:textSize="25sp"
+            android:text="Puntuar pedido" />
+
+        <TextView
+            style="@style/texto_de_registro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="No es necesario puntuar todo" />
+
+        <TableLayout
+            android:id="@+id/layout_tablerow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="7dp"
+            android:foregroundGravity="center"
+            android:gravity="center">
+
+        </TableLayout>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Escribir un comentario"
+            android:gravity="center"
+            android:id="@+id/puntar_dejar_un_comentario"/>
+
+        <Button
+            android:id="@+id/ad_puntuar_btn_puntuar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="7dp"
+            android:background="@drawable/input_outline"
+            android:text="Puntuar"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/ad_puntuar_btn_volver"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="7dp"
+            android:background="@drawable/input_outline"
+            android:text="volver"
+            android:visibility="visible" />
+    </LinearLayout>
+</ScrollView>

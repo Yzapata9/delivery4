@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_gravity="center"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linear_row_elegir_delivery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/input_outline"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/nombre_delivery"
+            style="@style/texto_gridview_carrito"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="delivery 1" />
+
+        <TextView
+            android:id="@+id/precio_delivery_por_negocio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:gravity="center"
+            android:text="precio por negocio = X"
+            android:textColor="@color/negro" />
+
+        <TextView
+            android:id="@+id/precio_delivery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:gravity="center"
+            android:text="precio servicio = X"
+            android:textColor="@color/negro" />
+
+        <TextView
+            android:id="@+id/cantidad_pedidos_delivery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:gravity="center"
+            android:text="Tiempo estimado = T"
+            android:textColor="@color/negro" />
+    </LinearLayout>
+</RelativeLayout>

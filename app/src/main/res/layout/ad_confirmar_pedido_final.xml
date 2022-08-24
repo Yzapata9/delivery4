@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="@drawable/fondo_rosas"
+    android:orientation="vertical"
+    android:padding="3dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="Confirmar Pedido= "
+        style="@style/texto_de_registro"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:weightSum="2">
+
+        <TextView
+            style="@style/texto_alertdialog_carrito_confirmar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Cantidad productos=" />
+
+        <TextView
+            android:id="@+id/TV_alertdialog_confirmar_cantidad_productos"
+            style="@style/texto_gridview_carrito"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="STR_CANT_PRODUCTOS" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:weightSum="2">
+
+        <TextView
+            style="@style/texto_alertdialog_carrito_confirmar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Ubicacion= " />
+
+        <TextView
+            android:id="@+id/TV_alertdialog_confirmar_ubicacion"
+            style="@style/texto_gridview_carrito"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="STR_UBICACION" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:weightSum="2">
+
+        <TextView
+            style="@style/texto_alertdialog_carrito_confirmar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Precio total = " />
+
+        <TextView
+            android:id="@+id/TV_alertdialog_confirmar_precio_final"
+            style="@style/texto_gridview_carrito"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="STR_PRECIO_TOTAL"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:weightSum="2">
+
+        <TextView
+            style="@style/texto_alertdialog_carrito_confirmar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Forma de pago=" />
+
+        <TextView
+            android:id="@+id/TV_alertdialog_confirmar_forma_de_pago"
+            style="@style/texto_gridview_carrito"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="STR_FORMA_DE_PAGO"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="3dp"
+            android:id="@+id/ad_confirmar_cancelar"
+            android:background="@drawable/input_outline"
+            android:text="cancelar"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/ad_confirmar_aceptar"
+            android:background="@drawable/input_outline"
+            android:layout_margin="3dp"
+            android:text="aceptar"/>
+
+    </LinearLayout>
+
+</LinearLayout>

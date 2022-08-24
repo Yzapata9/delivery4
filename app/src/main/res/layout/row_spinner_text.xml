@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="felicidad"
+    android:layout_margin="3dp"
+    android:id="@+id/texto_spinner"
+    android:background="@drawable/input_outline"
+    style="@style/texto_para_ingresar_tipo_de_domicilio" />

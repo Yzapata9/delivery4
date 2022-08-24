@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Delivery Bariloche</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Amor</string>
+    <string name="nav_header_subtitle">La respuesta a todos los problemas</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">338503956968839</string>
+    <string name="fb_login_protocol_scheme">fb338503956968839</string>
+
+    <string name="telefono_administrador">2944954574</string>
+    <string name="telefono_servicio_delivery">2944954574</string>
+
+    <string-array name="array_posibles_estados_del_servicio_que_llevan_a_ver_progreso_pedido">
+        <item>confirmar pedido</item>
+        <item>confirmado</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/degrade_intento_4"
+    tools:context=".c_editar_usuario_y_log_out">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/texto_de_registro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:gravity="center"
+            android:text="Opciones" />
+
+        <Button
+            android:id="@+id/BTN_agregar_direcion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/input_outline"
+            android:text="agregar direccion" />
+
+        <Button
+            android:id="@+id/BTN_modificar_direccion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/input_outline"
+            android:text="modificar direccion" />
+
+        <Button
+            android:id="@+id/BTN_borrar_direccion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/input_outline"
+            android:text="borrar direccion" />
+
+        <Button
+            android:id="@+id/BTN_editar_numero_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/input_outline"
+            android:text="cambiar numero de telefono" />
+
+        <LinearLayout
+            android:id="@+id/Linear_editar_numerotelefono"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/input_outline"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/texto_de_registro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="ingrese el nuevo numero de telefono" />
+
+            <EditText
+                android:id="@+id/ET_editar_usuario_editar_numerotelefono"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:hint="ingrese el numero"
+                android:inputType="number" />
+
+            <Button
+                android:id="@+id/BTN_editar_usuario_editar_numero_telefono"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Guardar" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/BTN_salir_de_la_cuenta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/input_outline"
+            android:text="salir de la cuenta" />
+    </LinearLayout>
+</ScrollView>

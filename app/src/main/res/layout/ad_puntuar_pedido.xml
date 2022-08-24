@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/fondo_rosas">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/ad_puntuar_titulo"
+            style="@style/texto_de_registro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="Puntuar pedido" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <ImageView
+                android:id="@+id/ad_puntuar_iv_positivo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/ic_puntuar_manito_arriba" />
+
+            <ImageView
+                android:id="@+id/ad_puntuar_iv_negativo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/ic__puntuar_manito_abajo" />
+
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/ad_puntuar_ed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Como podemos mejorar?"
+            android:gravity="center"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/ad_puntuar_btn_puntuar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/input_outline"
+            android:text="Puntuar"
+            android:visibility="visible" />
+    </LinearLayout>
+</RelativeLayout>

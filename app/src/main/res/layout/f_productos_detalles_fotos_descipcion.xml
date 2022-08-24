@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/degrade_intento_4"
+    tools:context=".c_productos_detalles">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/BTN_productos_detalles_descripcion_guardar_pedido">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/TV_productos_detalles_titulo"
+                android:textSize="25sp"
+                style="@style/detalles_fotos_descripcion_texto_de_detalles"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="13dp"
+                android:gravity="center_horizontal"
+                android:text="titulo" />
+
+
+            <ImageView
+                android:id="@+id/im_sin_imagen_disponible"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:src="@drawable/sin_imagen_disponible"
+                android:visibility="gone" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_productos_detalles_fotos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/input_outline_transparente"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/texto_detalle_descripcion"
+                    style="@style/detalles_fotos_descripcion_texto_de_detalles"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Descripción = " />
+
+                <TextView
+                    android:id="@+id/TV_productos_detalles_descripcion"
+                    style="@style/texto_gridview_carrito"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:gravity="center_horizontal"
+                    android:text="descripcion" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/input_outline_transparente"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/detalles_fotos_descripcion_texto_de_detalles"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Precio = " />
+
+                <TextView
+                    android:id="@+id/TV_productos_detalles_precio"
+                    style="@style/texto_gridview_carrito"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:gravity="center_horizontal"
+                    android:text="precio" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/BTN_productos_detalles_descripcion_guardar_pedido"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="3dp"
+        android:background="@drawable/input_outline"
+        android:text="agregar al carrito" />
+</RelativeLayout>

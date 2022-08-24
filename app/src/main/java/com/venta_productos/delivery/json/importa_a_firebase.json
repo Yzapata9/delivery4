@@ -1,0 +1,3788 @@
+{
+  "deliverys" : {
+    "delivery_01" : {
+      "area" : [ "-41.130572€-71.31586, -41.12734€-71.2823, -41.152485€-71.284532, -41.156298€-71.317577", "-41.108847€-71.393108,   -41.114796€-71.311912,   -41.148542€-71.308479,   -41.147896€-71.397914" ],
+      "estado" : "on",
+      "horario" : "10:01-23:00 €09:00-23:30 €09:00-23:30 €09:04-23:04 €09:05-23:30 €10:06-23:30 €10:07-23:30 ",
+      "precios" : {
+        "cual_usar" : "1",
+        "precios" : [ null, "100" ]
+      },
+      "prioridad" : "99",
+      "ubicacion_del_delivery" : [ null, "-41.1254503,-71.3716997", "-41.1254503,-71.3716997", "-41.1254503,-71.3716997" ],
+      "ultima_coneccion" : {
+        "en_ms" : 1559671224756,
+        "ultima_coneccion" : "4-6,15:00"
+      }
+    },
+    "delivery_02" : {
+      "area" : [ "-41.118676€-71.303844,  -41.155522€-71.307621,  -41.141562€-71.410446,  -41.107553€-71.405124", "-41.131736€-71.313972, -41.132124€-71.288652, -41.149189€-71.289339, -41.145828€-71.317148" ],
+      "estado" : "on",
+      "horario" : "10:01-16:01·18:01-22:01€12:30-23:30€10:03-16:03·18:03-22:03€10:04-16:04·18:04-22:04€10:05-16:05·18:05-22:05€10:06-16:06·18:06-22:06€10:07-16:07·18:07-22:07",
+      "precios" : {
+        "cual_usar" : "3",
+        "precios" : [ null, "100", null, "160" ]
+      },
+      "prioridad" : "75",
+      "ubicacion_del_delivery" : [ null, "-41.1253832,-71.3716678,20:27", "-41.1253832,-71.3716678,21:12", "-41.1253832,-71.3716678,21:53" ]
+    },
+    "delivery_03" : {
+      "area" : [ "-41.116284€-71.404438,   -41.136584€-71.404523,   -41.143372€-71.350879,   -41.121392€-71.345386", "-41.118029€-71.348905, -41.150546€-71.351394, -41.153196€-71.31277, -41.12068€-71.311826" ],
+      "estado" : "on",
+      "precios" : {
+        "cual_usar" : "1",
+        "precios" : [ null, "120" ]
+      },
+      "prioridad" : "50",
+      "ubicacion_del_delivery" : [ null, "-41.133724,-71.2846316,1550953533495" ]
+    }
+  },
+  "estado" : {
+    "area_de_servicio" : "desde el centro hasta el kilometro 10",
+    "estado_de_la_app" : "ok",
+    "n_area_delivery" : 1,
+    "n_area_negocios" : 1
+  },
+  "feedback" : {
+    "comentario" : {
+      "fyhAwiOSsLZhJM6ioldYqo6IKmY2" : {
+        "-LgUOzWDxObsPhXxoq5I" : "prueba ejemplo"
+      }
+    },
+    "delivery" : {
+      "positivo" : {
+        "fyhAwiOSsLZhJM6ioldYqo6IKmY2" : {
+          "-LgUOzWCRgHNaSpEizR3" : "bien hecho!",
+          "-LgURnf2kRcHC_CQrEcU" : "bien hecho!",
+          "-LgUSkXhd2j427CJWBbZ" : "bien hecho!",
+          "-LgYdYDImK0Ijp-6rgLH" : "bien hecho!"
+        }
+      }
+    }
+  },
+  "juego" : {
+    "guardar" : "",
+    "que_hacer" : "0",
+    "texto_noficacion" : "loool",
+    "titulo_notificacion" : "tiling"
+  },
+  "negocios" : {
+    "Modelo Negocio 2" : {
+      "estado_negocio" : "on",
+      "estado_servicio" : "off",
+      "gps_negocio" : "-41.135835, -71.287826",
+      "horario" : " €10:00-23:00 €10:03-16:03·18:03-22:03€10:04-12:00 €10:05-16:05·18:05-22:05€09:00-16:06·18:06-22:06€10:07-16:07·18:07-22:07",
+      "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/imagenes_negocios%2Fvegan%20life%2Fvegan%20life.jpg?alt=media&token=455f01c6-3125-47ea-88a3-cc9a1a363615",
+      "limite_modificaciones" : {
+        "disponible" : "10",
+        "imagenes" : "70",
+        "productos" : "10",
+        "telefono" : "4"
+      },
+      "nombre" : "Modelo Negocio 1",
+      "productos" : {
+        "-LdJlydDtAmlPUKHOKb1" : {
+          "disponible" : "si",
+          "nombre" : "Modelo Producto 1",
+          "precio" : "9"
+        },
+        "producto 2" : {
+          "detalles" : {
+            "descripcion" : "Desc",
+            "fotos" : {
+              "-LYCnMc8OhhHrJXpc7cX" : {
+                "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2Fqueso%201%20kilo%2F29721?alt=media&token=308f789c-bc8b-4d99-9233-831c1a25aeb5"
+              }
+            }
+          },
+          "disponible" : "si",
+          "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2Fqueso%201%20kilo%2F29721?alt=media&token=308f789c-bc8b-4d99-9233-831c1a25aeb5",
+          "nombre" : "Modelo Producto 2",
+          "precio" : "220",
+          "tiene_detalles" : "fotos y descripcion"
+        }
+      },
+      "puntuacion" : {
+        "negativo" : {
+          "-LgUOzWA270hwnmEDUHh" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2"
+        },
+        "positivo" : {
+          "-LgURnf0lEBepupPgcpx" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+          "-LgYdYDHZ9MlemopTeOM" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2"
+        }
+      },
+      "rubro" : "almacen",
+      "telefono" : "2944954574",
+      "tiene_categorias" : "no"
+    },
+    "Modelo negocio con categorias 1" : {
+      "estado_negocio" : "on",
+      "estado_servicio" : "off",
+      "gps_negocio" : "-41.131334, -71.354956",
+      "horario" : "10:01-23:00 €12:30-23:30 €10:03-23:03 €10:04-23:04 €10:05-23:05 €10:06-23:06 €10:07-23:07 ",
+      "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/imagenes_negocios%2Fpiale%2Fpiale.jpg?alt=media&token=5e7a6111-2b5f-43e5-9d26-bdfbc0eaf111",
+      "limite_modificaciones" : {
+        "disponible" : "10",
+        "imagenes" : "70",
+        "productos" : "12",
+        "telefono" : "5"
+      },
+      "nombre" : "Modelo negocio con categorias 1",
+      "categorias" : {
+        "categoria 1" : {
+          "detalles" : {
+            "fotos" : {
+              "-L_Nb6h4LbhYf4HnmTVN" : {
+                "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fpiale%2Fpollo%20al%20spiedo%20c%2Ffritas%20o%20ensalada%20grande%2F30959?alt=media&token=e0ad195a-6bd2-444f-b96a-11c3ec305168"
+              }
+            }
+          },
+          "disponible" : "si",
+          "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fpiale%2Fpollo%20al%20spiedo%20c%2Ffritas%20o%20ensalada%20grande%2F30959?alt=media&token=e0ad195a-6bd2-444f-b96a-11c3ec305168",
+          "nombre" : "Modelo categoria 1",
+          "productos" : {
+            "-LdJlydDtAmlPUKHOKb1" : {
+              "disponible" : "si",
+              "nombre" : "Modelo Producto 1",
+              "precio" : "9"
+            },
+            "producto 2" : {
+              "detalles" : {
+                "descripcion" : "Desc",
+                "fotos" : {
+                  "-LYCnMc8OhhHrJXpc7cX" : {
+                    "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2Fqueso%201%20kilo%2F29721?alt=media&token=308f789c-bc8b-4d99-9233-831c1a25aeb5"
+                  }
+                }
+              },
+              "disponible" : "si",
+              "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2Fqueso%201%20kilo%2F29721?alt=media&token=308f789c-bc8b-4d99-9233-831c1a25aeb5",
+              "nombre" : "Modelo producto 2",
+              "precio" : "220",
+              "tiene_detalles" : "fotos y descripcion"
+            }
+          },
+          "precio" : "275",
+          "tiene_detalles" : "fotos"
+        },
+        "categoria 2" : {
+          "detalles" : {
+            "fotos" : {
+              "-L_Na9hFou0bugwDPVeo" : {
+                "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fpiale%2Fsuper%20milanesa%20completa%2F30958?alt=media&token=8cf00d3f-2766-484c-9c8b-12204294d657"
+              }
+            }
+          },
+          "disponible" : "si",
+          "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fpiale%2Fsuper%20milanesa%20completa%2F30958?alt=media&token=8cf00d3f-2766-484c-9c8b-12204294d657",
+          "nombre" : "Modelo categoria 2",
+          "productos" : {
+            "-LdJlydDtAmlPUKHOKb1" : {
+              "disponible" : "si",
+              "nombre" : "Modelo Producto 1",
+              "precio" : "9"
+            },
+            "producto 2" : {
+              "detalles" : {
+                "descripcion" : "Desc",
+                "fotos" : {
+                  "-LYCnMc8OhhHrJXpc7cX" : {
+                    "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2Fqueso%201%20kilo%2F29721?alt=media&token=308f789c-bc8b-4d99-9233-831c1a25aeb5"
+                  }
+                }
+              },
+              "disponible" : "si",
+              "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2Fqueso%201%20kilo%2F29721?alt=media&token=308f789c-bc8b-4d99-9233-831c1a25aeb5",
+              "nombre" : "Modelo Producto 2",
+              "precio" : "220",
+              "tiene_detalles" : "fotos y descripcion"
+            }
+          },
+          "precio" : "300",
+          "tiene_detalles" : "fotos"
+        }
+      },
+      "puntuacion" : {
+        "positivo" : {
+          "-LgUOzW9OglT0ZYw48DJ" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+          "-LgURnf0lEBepupPgcpw" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+          "-LgUSkXg1O5MHWD3IC7n" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2"
+        }
+      },
+      "rubro" : "Rubro modelo negocio 2",
+      "telefono" : "2944954574",
+      "tiene_categorias" : "si"
+    },
+    "modelo negocio 1" : {
+      "estado_negocio" : "on",
+      "estado_servicio" : "off",
+      "gps_negocio" : "-41.128571, -71.369783",
+      "horario" : "10:01-23:00 €09:00-23:30 €10:03-23:03 €10:04-23:04 €10:05-23:05 €10:06-23:06 €10:07-23:07 ",
+      "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/imagenes_negocios%2Fla%20orquita%2Fla%20orquita.png?alt=media&token=0b96476f-a3cb-4be6-962a-da7a930d08c1",
+      "limite_modificaciones" : {
+        "disponible" : "10",
+        "imagenes" : "70",
+        "productos" : "8",
+        "telefono" : "4"
+      },
+      "nombre" : "Modelo negocio 2",
+      "productos" : {
+        "-LVsfcRB7LxfyAgrGsj7" : {
+          "detalles" : {
+            "descripcion" : "Descipcion producto 1",
+            "fotos" : {
+              "-LYCnI-6DUwUJattMR4r" : {
+                "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2FChocolate%20500g%2F29720?alt=media&token=97389ddb-ad27-4508-8fe0-4d424171da11"
+              }
+            }
+          },
+          "disponible" : "si",
+          "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2FChocolate%20500g%2F29720?alt=media&token=97389ddb-ad27-4508-8fe0-4d424171da11",
+          "nombre" : "Modelo producto 1",
+          "precio" : "100",
+          "tiene_detalles" : "fotos y descripcion"
+        },
+        "-LYX_2Bz9YZXDiutIEVc" : {
+          "detalles" : {
+            "fotos" : {
+              "-LYXbgad-_Dchb04OGE0" : {
+                "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2FPadre%20nuestro%20que%20estas%20en%20los%20cielos%2F29857?alt=media&token=61dea8ae-bf9f-4387-baeb-aa6092f5a354"
+              }
+            }
+          },
+          "disponible" : "si",
+          "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2FPadre%20nuestro%20que%20estas%20en%20los%20cielos%2F29857?alt=media&token=61dea8ae-bf9f-4387-baeb-aa6092f5a354",
+          "nombre" : "Modelo producto 2",
+          "precio" : "9",
+          "tiene_detalles" : "fotos"
+        },
+        "-Ldxlv8cXllH4YXb9X9l" : {
+          "detalles" : {
+            "fotos" : {
+              "-Ldxlw35oCVQQYhOH7Ot" : {
+                "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2FFelicidad%20%2F32532?alt=media&token=66c53899-9ee4-446a-bd73-2a1064aa82c6"
+              }
+            }
+          },
+          "disponible" : "si",
+          "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2FFelicidad%20%2F32532?alt=media&token=66c53899-9ee4-446a-bd73-2a1064aa82c6",
+          "nombre" : "Felicidad ",
+          "precio" : "777"
+        },
+        "-LeraXsqsslXsMZcLSmH" : {
+          "detalles" : {
+            "fotos" : {
+              "-LeraYvh7BZEHqocT1Cn" : {
+                "image" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2Fbillonaire%2F32798?alt=media&token=1b56cf04-3c14-4b25-b2be-735f213d3aaf"
+              }
+            }
+          },
+          "disponible" : "si",
+          "imagen" : "https://firebasestorage.googleapis.com/v0/b/delivery-87506.appspot.com/o/Delivery_Images%2Fla%20orquita%2Fbillonaire%2F32798?alt=media&token=1b56cf04-3c14-4b25-b2be-735f213d3aaf",
+          "nombre" : "billonaire",
+          "precio" : "1000000000"
+        }
+      },
+      "puntuacion" : {
+        "positivo" : {
+          "-LgUOzWBV3Q5kX2ALhqv" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+          "-LgURnf1uqXCqxMI4xZM" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+          "-LgUSkXg1O5MHWD3IC7o" : "fyhAwiOSsLZhJM6ioldYqo6IKmY2"
+        }
+      },
+      "rubro" : "almacen",
+      "telefono" : "2944954574",
+      "tiene_categorias" : "no",
+      "ultima_coneccion" : {
+        "en_ms" : 1557333022438,
+        "ultima_coneccion" : "8-5,13:30"
+      }
+    }
+  },
+  "pedidos" : {
+    "2019" : {
+      "4" : {
+        "15" : {
+          "82816140" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:32 ",
+            "lugar_entrega" : "mamá",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 220" ],
+                "papa_negocio_2" : {
+                  "2" : " 220"
+                }
+              },
+              "total_cobrar" : "756"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              },
+              "papa_negocio_2" : {
+                "2" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "confirmado"
+          },
+          "82826350" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_02",
+            "hora_pedido" : "16:32 ",
+            "lugar_entrega" : "mamá",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "320",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "3" : " 300"
+                },
+                "modelo negocio 1" : [ "9" ]
+              },
+              "total_cobrar" : "744"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "3" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 2 Precio= 9 ",
+                "estado" : "confirmar pedido"
+              }
+            },
+            "pedido_en_actividad" : "confirmado"
+          },
+          "95416640" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:06 ",
+            "lugar_entrega" : "mamá",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 220" ],
+                "papa_negocio_2" : {
+                  "2" : " 220"
+                }
+              },
+              "total_cobrar" : "756"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "listo"
+              },
+              "papa_negocio_2" : {
+                "2" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "listo"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "95421830" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_02",
+            "hora_pedido" : "15:06 ",
+            "lugar_entrega" : "mamá",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "320",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "3" : " 300"
+                },
+                "modelo negocio 1" : [ "9" ]
+              },
+              "total_cobrar" : "744"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "3" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "estado" : "genio"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 2 Precio= 9 ",
+                "estado" : "2"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          }
+        },
+        "23" : {
+          "13556479" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "11:05 ",
+            "lugar_entrega" : "mamá",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "220" ],
+                "papa_negocio_2" : [ null, " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "papa_negocio_2" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "756"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= queso 1 kilo Precio= 220 ",
+                "estado" : "pedido enviado"
+              },
+              "papa_negocio_2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "confirmado"
+          },
+          "14186533" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "10:42 ",
+            "lugar_entrega" : "mamá",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "220" ]
+              },
+              "total_cobrar" : "360"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= queso 1 kilo Precio= 220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          }
+        },
+        "25" : {
+          "82973780" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_02",
+            "hora_pedido" : "16:31 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "160",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "9", " 2000", " 2000" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "4419"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 2 Precio= 9 ",
+                "1" : "Producto= LN - jacok Precio=  2000 ",
+                "2" : "Producto= LN - jacob Precio=  2000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "83254480" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_02",
+            "hora_pedido" : "16:28 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "160",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "9", " 2000", " 2000" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "4209"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 2 Precio= 9 ",
+                "1" : "Producto= LN - jacok Precio=  2000 ",
+                "2" : "Producto= LN - jacob Precio=  2000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "84435430" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_02",
+            "hora_pedido" : "16:16 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "160",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "9", " 2000", " 2000" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "4209"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 2 Precio= 9 ",
+                "1" : "Producto= LN - jacok Precio=  2000 ",
+                "2" : "Producto= LN - jacob Precio=  2000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "84624770" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_02",
+            "hora_pedido" : "16:14 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "160",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "9", " 2000", " 2000" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "4209"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 2 Precio= 9 ",
+                "1" : "Producto= LN - jacok Precio=  2000 ",
+                "2" : "Producto= LN - jacob Precio=  2000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          }
+        }
+      },
+      "5" : {
+        "1" : {
+          "10573054" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:03 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : {
+                  "2" : " 9"
+                },
+                "modelo negocio 1" : [ "100", " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "639"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "2" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Chocolate 500g Precio= 100 ",
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido listo"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "12131211" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "12:47 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "100" ]
+              },
+              "total_cobrar" : "240"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Chocolate 500g Precio= 100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "12183552" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "12:42 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "100" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "240"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Chocolate 500g Precio= 100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "84771450" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:13 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, null, " 9", " 9" ],
+                "modelo negocio 1" : [ "100", " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "648"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "2" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "3" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Chocolate 500g Precio= 100 ",
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          }
+        },
+        "2" : {
+          "11454611" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "13:15 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "85" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "236"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "11477210" : {
+            "cliente" : "+542944954574,F2iGzXnk8CcbWHfcGF3l8z9CLfQ2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "13:56 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "85", " 2000" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "2225"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "1" : "Producto= LN - jacob Precio=  2000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "12593873" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "12:01 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ],
+                "modelo negocio 1" : [ null, " 85" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "665"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio= 300 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "1" : "Producto= Papas fritas lays  Precio=  85 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          },
+          "13958310" : {
+            "cliente" : "2944954574,ED3Aqsp5D3Q2XQssHrnNmc8hOx23",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "11:51 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "80",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ],
+                "modelo negocio 1" : [ null, " 85" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "665"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio= 300 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "1" : "Producto= Papas fritas lays  Precio=  85 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          }
+        },
+        "3" : {
+          "15171132" : {
+            "cliente" : "+542944954574,F2iGzXnk8CcbWHfcGF3l8z9CLfQ2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "9:43 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "85", " 100" ]
+              },
+              "total_cobrar" : "341"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "1" : "Producto= Chocolate 500g Precio=  100 ",
+                "estado" : "pedido en preparacion"
+              }
+            },
+            "pedido_en_actividad" : "cancelado,No encontré la casa"
+          },
+          "15261400" : {
+            "cliente" : "+542944954574,F2iGzXnk8CcbWHfcGF3l8z9CLfQ2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "9:58 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "85", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "341"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "1" : "Producto= Chocolate 500g Precio=  100 ",
+                "estado" : "pedido listo"
+              }
+            },
+            "pedido_en_actividad" : "finalizado"
+          }
+        },
+        "6" : {
+          "75174200" : {
+            "cliente" : "+542944954574,F2iGzXnk8CcbWHfcGF3l8z9CLfQ2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "17:55 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "85", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "325"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "1" : "Producto= Chocolate 500g Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "Apunto",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557176108749,
+                "2_confirmacion_delivery" : 1557176115498,
+                "5_finalizado" : 1557176486003
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "17:55",
+                "2_confirmacion_delivery" : "17:55",
+                "5_finalizado" : "18:01"
+              }
+            }
+          }
+        },
+        "7" : {
+          "11446974" : {
+            "cliente" : "+542944954574,F2iGzXnk8CcbWHfcGF3l8z9CLfQ2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "13:16 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "85", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "341"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "1" : "Producto= Chocolate 500g Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "positivo,Son los mejores!! ",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557245796771,
+                "2_confirmacion_delivery" : 1557245803286,
+                "5_finalizado" : 1557245955472
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "13:16",
+                "2_confirmacion_delivery" : "13:16",
+                "5_finalizado" : "13:19"
+              }
+            }
+          },
+          "11471224" : {
+            "cliente" : "+542944954574,F2iGzXnk8CcbWHfcGF3l8z9CLfQ2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "13:13 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "85", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "341"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "1" : "Producto= Chocolate 500g Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557245628914,
+                "2_confirmacion_delivery" : 1557245637916,
+                "5_finalizado" : 1557245640984
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "13:13",
+                "2_confirmacion_delivery" : "13:13",
+                "5_finalizado" : "13:14"
+              }
+            }
+          },
+          "12575960" : {
+            "cliente" : "+542944954574,F2iGzXnk8CcbWHfcGF3l8z9CLfQ2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "12:55 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "85", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "325"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "1" : "Producto= Chocolate 500g Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "positivo",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557244511808,
+                "2_confirmacion_delivery" : 1557244596411,
+                "5_finalizado" : 1557244605600
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "12:55",
+                "2_confirmacion_delivery" : "12:56",
+                "5_finalizado" : "12:56"
+              }
+            }
+          },
+          "13131203" : {
+            "cliente" : "+542944954574,F2iGzXnk8CcbWHfcGF3l8z9CLfQ2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "11:47 ",
+            "lugar_entrega" : "casa ",
+            "montos" : {
+              "comision_app" : "40",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "85", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "325"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Papas fritas lays  Precio= 85 ",
+                "1" : "Producto= Chocolate 500g Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557240438552,
+                "2_confirmacion_delivery" : 1557240496950,
+                "5_finalizado" : 1557241376584
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "11:47",
+                "2_confirmacion_delivery" : "11:48",
+                "5_finalizado" : "12:02"
+              }
+            }
+          }
+        },
+        "15" : {
+          "53964910" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "19:21 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 440" ]
+              },
+              "total_cobrar" : "679"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= queso 1 kilo Cantidad  2 Precio=  440 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "confirmado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557958871614,
+                "2_confirmacion_delivery" : 1557958878864
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "19:21",
+                "2_confirmacion_delivery" : "19:21"
+              }
+            }
+          },
+          "54549600" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "19:15 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 440" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "712"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= queso 1 kilo Cantidad  2 Precio=  440 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557958553053,
+                "2_confirmacion_delivery" : 1557958601362,
+                "5_finalizado" : 1557958821110
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "19:15",
+                "2_confirmacion_delivery" : "19:16",
+                "5_finalizado" : "19:20"
+              }
+            }
+          },
+          "54878010" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "19:12 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 440" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "712"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= queso 1 kilo Cantidad  2 Precio=  440 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557958374675,
+                "2_confirmacion_delivery" : 1557958425772,
+                "5_finalizado" : 1557958539916
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "19:12",
+                "2_confirmacion_delivery" : "19:13",
+                "5_finalizado" : "19:15"
+              }
+            }
+          },
+          "55676970" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "19:04 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 440" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "679"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= queso 1 kilo Cantidad  2 Precio=  440 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1557957855874,
+                "2_confirmacion_delivery" : 1557957990951,
+                "5_finalizado" : 1557958343339
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "19:04",
+                "2_confirmacion_delivery" : "19:06",
+                "5_finalizado" : "19:12"
+              }
+            }
+          }
+        },
+        "19" : {
+          "13143143" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "11:46 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 440" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "712"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= queso 1 kilo Cantidad  2 Precio=  440 ",
+                "estado" : "pedido listo"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558277181537,
+                "2_confirmacion_delivery" : 1558277251406,
+                "5_finalizado" : 1558297319370,
+                "negocios" : {
+                  "modelo negocio 1" : {
+                    "4_negocio_finalizado" : 1558296287733
+                  }
+                }
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "11:46",
+                "2_confirmacion_delivery" : "11:47",
+                "5_finalizado" : "17:21",
+                "negocios" : {
+                  "modelo negocio 1" : {
+                    "4_negocio_finalizado" : "21:04"
+                  }
+                }
+              }
+            }
+          },
+          "32224250" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "21:38 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 440", " 1100", " 1000000000" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1050001867"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= queso 1 kilo Cantidad  2 Precio=  440 ",
+                "3" : "Producto= queso 1 kilo Cantidad  5 Precio=  1100 ",
+                "4" : "Producto= billonaire Precio=  1000000000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558312727504,
+                "2_confirmacion_delivery" : 1558312757959,
+                "5_finalizado" : 1558315641927
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "21:38",
+                "2_confirmacion_delivery" : "21:39",
+                "5_finalizado" : "22:27"
+              }
+            }
+          },
+          "32670910" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "21:34 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 440", " 1100", " 1000000000" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1050001867"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= queso 1 kilo Cantidad  2 Precio=  440 ",
+                "3" : "Producto= queso 1 kilo Cantidad  5 Precio=  1100 ",
+                "4" : "Producto= billonaire Precio=  1000000000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558312467157,
+                "2_confirmacion_delivery" : 1558312518398,
+                "5_finalizado" : 1558312547274
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "21:34",
+                "2_confirmacion_delivery" : "21:35",
+                "5_finalizado" : "21:35"
+              }
+            }
+          }
+        },
+        "22" : {
+          "81310460" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:47 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "4" : " 300",
+                  "5" : " 300",
+                  "6" : " 275"
+                },
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1516"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "4" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "5" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "6" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558554452722,
+                "5_finalizado" : 1558555084753
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "16:47",
+                "5_finalizado" : "16:58"
+              }
+            }
+          },
+          "81724690" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:43 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "4" : " 300",
+                  "5" : " 300",
+                  "6" : " 275"
+                },
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1516"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "4" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "5" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "6" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558554208181,
+                "2_confirmacion_delivery" : 1558554261467,
+                "5_finalizado" : 1558554264435
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "16:43",
+                "2_confirmacion_delivery" : "16:44",
+                "5_finalizado" : "16:44"
+              }
+            }
+          },
+          "82464000" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:58 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "4" : " 300",
+                  "5" : " 300",
+                  "6" : " 275"
+                },
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "total_cobrar" : "1444"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "4" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "5" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "6" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "confirmado"
+              }
+            },
+            "pedido_en_actividad" : "confirmado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558555113309,
+                "2_confirmacion_delivery" : 1558555505640
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "16:58",
+                "2_confirmacion_delivery" : "17:05"
+              }
+            }
+          },
+          "83141100" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:29 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "4" : " 300",
+                  "5" : " 300",
+                  "6" : " 275"
+                },
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1516"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "4" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "5" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "6" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558553384378,
+                "2_confirmacion_delivery" : 1558553879151,
+                "5_finalizado" : 1558553881638
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "16:29",
+                "2_confirmacion_delivery" : "16:37",
+                "5_finalizado" : "16:38"
+              }
+            }
+          },
+          "84961490" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:11 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "4" : " 300",
+                  "5" : " 300",
+                  "6" : " 275"
+                },
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1516"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "4" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "5" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "6" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558552304087,
+                "2_confirmacion_delivery" : 1558552534271,
+                "5_finalizado" : 1558553365751
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "16:11",
+                "2_confirmacion_delivery" : "16:15",
+                "5_finalizado" : "16:29"
+              }
+            }
+          },
+          "85157780" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:09 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "439"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558552191038,
+                "2_confirmacion_delivery" : 1558552202220,
+                "5_finalizado" : 1558552204941
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "16:09",
+                "2_confirmacion_delivery" : "16:10",
+                "5_finalizado" : "16:10"
+              }
+            }
+          },
+          "85651820" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:04 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "439"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558551867148,
+                "2_confirmacion_delivery" : 1558551902652,
+                "5_finalizado" : 1558552042119
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "16:04",
+                "2_confirmacion_delivery" : "16:05",
+                "5_finalizado" : "16:07"
+              }
+            }
+          },
+          "85939350" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "16:01 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "439"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558551701607,
+                "2_confirmacion_delivery" : 1558551742320,
+                "5_finalizado" : 1558551846219
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "16:01",
+                "2_confirmacion_delivery" : "16:02",
+                "5_finalizado" : "16:04"
+              }
+            }
+          },
+          "91122360" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:49 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "439"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558550948666,
+                "2_confirmacion_delivery" : 1558551157690,
+                "5_finalizado" : 1558551271289
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:49",
+                "2_confirmacion_delivery" : "15:52",
+                "5_finalizado" : "15:54"
+              }
+            }
+          },
+          "96530200" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:54 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "439"
+            },
+            "negocios" : {
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1558551288089,
+                "2_confirmacion_delivery" : 1558551364529,
+                "5_finalizado" : 1558551367902
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:54",
+                "2_confirmacion_delivery" : "15:56",
+                "5_finalizado" : "15:56"
+              }
+            }
+          }
+        },
+        "29" : {
+          "10605916" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:00 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ null, " 275" ],
+                "modelo negocio 1" : [ "100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "708"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "1" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 1 Precio= 100 ",
+                "estado" : "pedido aceptado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559149236410,
+                "2_confirmacion_delivery" : 1559149266618,
+                "5_finalizado" : 1559164402489
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:00",
+                "2_confirmacion_delivery" : "14:01",
+                "5_finalizado" : "18:13"
+              }
+            }
+          },
+          "11165420" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "13:59 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "4" : " 300",
+                  "5" : " 300",
+                  "6" : " 275"
+                },
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1516"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "4" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "5" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "6" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559149156813,
+                "2_confirmacion_delivery" : 1559149179041,
+                "5_finalizado" : 1559149182251
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "13:59",
+                "2_confirmacion_delivery" : "13:59",
+                "5_finalizado" : "13:59"
+              }
+            }
+          },
+          "11955750" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "13:51 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "4" : " 300",
+                  "5" : " 300",
+                  "6" : " 275"
+                },
+                "modelo negocio 1" : [ "80", " 9", " 80", " 100" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1516"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "4" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "5" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "6" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Conitos 3d Precio= 80 ",
+                "1" : "Producto= Modelo producto 2 Precio=  9 ",
+                "2" : "Producto= Conitos 3d Precio=  80 ",
+                "3" : "Producto= Modelo producto 1 Precio=  100 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559148712455,
+                "2_confirmacion_delivery" : 1559148819778,
+                "5_finalizado" : 1559148826476
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "13:51",
+                "2_confirmacion_delivery" : "13:53",
+                "5_finalizado" : "13:53"
+              }
+            }
+          },
+          "63860380" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "18:22 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ null, " 275" ],
+                "modelo negocio 1" : [ "100", null, " 9", " 80", " 80", " 100", " 9", " 2000", " 777", " 1000000000" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "1000003730"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "1" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 1 Precio= 100 ",
+                "2" : "Producto= Modelo producto 2 Precio=  9 ",
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "4" : "Producto= Conitos 3d Precio=  80 ",
+                "5" : "Producto= Modelo producto 1 Precio=  100 ",
+                "6" : "Producto= Modelo producto 2 Precio=  9 ",
+                "7" : "Producto= treking Precio=  2000 ",
+                "8" : "Producto= Felicidad  Precio=  777 ",
+                "9" : "Producto= billonaire Precio=  1000000000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559164967502,
+                "2_confirmacion_delivery" : 1559166101956,
+                "5_finalizado" : 1559166111518
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "18:22",
+                "2_confirmacion_delivery" : "18:41",
+                "5_finalizado" : "18:41"
+              }
+            }
+          },
+          "64735900" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "18:13 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ null, " 275" ],
+                "modelo negocio 1" : [ "100", null, " 9", " 80" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "764"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "1" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 1 Precio= 100 ",
+                "2" : "Producto= Modelo producto 2 Precio=  9 ",
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559164424469,
+                "2_confirmacion_delivery" : 1559164939112,
+                "5_finalizado" : 1559164943159
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "18:13",
+                "2_confirmacion_delivery" : "18:22",
+                "5_finalizado" : "18:22"
+              }
+            }
+          }
+        },
+        "30" : {
+          "10196742" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:41 ",
+            "lugar_entrega" : "trabajo",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "220" ],
+                "papa_negocio_2" : [ null, " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "papa_negocio_2" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "740"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= queso 1 kilo Precio= 220 ",
+                "estado" : "pedido enviado"
+              },
+              "papa_negocio_2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559238104511,
+                "2_confirmacion_delivery" : 1559238773330,
+                "5_finalizado" : 1559238776168
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:41",
+                "2_confirmacion_delivery" : "14:52",
+                "5_finalizado" : "14:52"
+              }
+            }
+          },
+          "10543330" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:55 ",
+            "lugar_entrega" : "trabajo",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "220" ],
+                "papa_negocio_2" : [ null, " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "papa_negocio_2" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "740"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= queso 1 kilo Precio= 220 ",
+                "estado" : "pedido enviado"
+              },
+              "papa_negocio_2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559238925468,
+                "2_confirmacion_delivery" : 1559239001861,
+                "5_finalizado" : 1559239057742
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:55",
+                "2_confirmacion_delivery" : "14:56",
+                "5_finalizado" : "14:57"
+              }
+            }
+          },
+          "11213595" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "13:39 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : {
+                  "1" : " 275",
+                  "10" : " 300",
+                  "11" : " 275",
+                  "12" : " 300",
+                  "13" : " 300",
+                  "14" : " 275",
+                  "15" : " 300"
+                },
+                "modelo negocio 1" : [ "100", null, " 9", " 80", " 80", " 100", " 9", " 2000", " 777", " 1000000000" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "1000005480"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "1" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "10" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "11" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "12" : "Producto= Modelo categoria 2 Precio=  300 ",
+                "13" : "Producto= Modelo categoria 2 Precio=  300 ",
+                "14" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "15" : "Producto= 1 docena de empanadas a eleccion + 1 muzzarela grande Precio=  300 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 1 Precio= 100 ",
+                "2" : "Producto= Modelo producto 2 Precio=  9 ",
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "4" : "Producto= Conitos 3d Precio=  80 ",
+                "5" : "Producto= Modelo producto 1 Precio=  100 ",
+                "6" : "Producto= Modelo producto 2 Precio=  9 ",
+                "7" : "Producto= treking Precio=  2000 ",
+                "8" : "Producto= Felicidad  Precio=  777 ",
+                "9" : "Producto= billonaire Precio=  1000000000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559234382774,
+                "2_confirmacion_delivery" : 1559234874886,
+                "5_finalizado" : 1559236664199
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "13:39",
+                "2_confirmacion_delivery" : "13:47",
+                "5_finalizado" : "14:17"
+              }
+            }
+          },
+          "11262383" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "13:34 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ null, " 275" ],
+                "modelo negocio 1" : [ "100", null, " 9", " 80", " 80", " 100", " 9", " 2000", " 777", " 1000000000" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1050003916"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "1" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "0" : "Producto= Modelo producto 1 Precio= 100 ",
+                "2" : "Producto= Modelo producto 2 Precio=  9 ",
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "4" : "Producto= Conitos 3d Precio=  80 ",
+                "5" : "Producto= Modelo producto 1 Precio=  100 ",
+                "6" : "Producto= Modelo producto 2 Precio=  9 ",
+                "7" : "Producto= treking Precio=  2000 ",
+                "8" : "Producto= Felicidad  Precio=  777 ",
+                "9" : "Producto= billonaire Precio=  1000000000 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559234068695,
+                "2_confirmacion_delivery" : 1559234305351,
+                "5_finalizado" : 1559234312399
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "13:34",
+                "2_confirmacion_delivery" : "13:38",
+                "5_finalizado" : "13:38"
+              }
+            }
+          },
+          "92161640" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:39 ",
+            "lugar_entrega" : "trabajo",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "220" ],
+                "papa_negocio_2" : [ null, " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "papa_negocio_2" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "777"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= queso 1 kilo Precio= 220 ",
+                "estado" : "pedido enviado"
+              },
+              "papa_negocio_2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559241545178,
+                "2_confirmacion_delivery" : 1559243828950,
+                "5_finalizado" : 1559243833466
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:39",
+                "2_confirmacion_delivery" : "16:17",
+                "5_finalizado" : "16:17"
+              }
+            }
+          },
+          "93133330" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:29 ",
+            "lugar_entrega" : "trabajo",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "220" ],
+                "papa_negocio_2" : [ null, " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "papa_negocio_2" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "777"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= queso 1 kilo Precio= 220 ",
+                "estado" : "pedido enviado"
+              },
+              "papa_negocio_2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559240981755,
+                "2_confirmacion_delivery" : 1559241269412,
+                "5_finalizado" : 1559241457390
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:29",
+                "2_confirmacion_delivery" : "15:34",
+                "5_finalizado" : "15:37"
+              }
+            }
+          },
+          "94529560" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:15 ",
+            "lugar_entrega" : "trabajo",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "220" ],
+                "papa_negocio_2" : [ null, " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "papa_negocio_2" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "777"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= queso 1 kilo Precio= 220 ",
+                "estado" : "pedido enviado"
+              },
+              "papa_negocio_2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559240108089,
+                "2_confirmacion_delivery" : 1559240607614,
+                "5_finalizado" : 1559240691213
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:15",
+                "2_confirmacion_delivery" : "15:23",
+                "5_finalizado" : "15:24"
+              }
+            }
+          },
+          "95340640" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:07 ",
+            "lugar_entrega" : "trabajo",
+            "montos" : {
+              "comision_app" : "100",
+              "delivery" : "200",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "220" ],
+                "papa_negocio_2" : [ null, " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "papa_negocio_2" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "777"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= queso 1 kilo Precio= 220 ",
+                "estado" : "pedido enviado"
+              },
+              "papa_negocio_2" : {
+                "1" : "Producto= queso 1 kilo Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559239658038,
+                "2_confirmacion_delivery" : 1559239727254,
+                "5_finalizado" : 1559239733100
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:07",
+                "2_confirmacion_delivery" : "15:08",
+                "5_finalizado" : "15:08"
+              }
+            }
+          }
+        }
+      },
+      "6" : {
+        "3" : {
+          "31615938" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "19:29 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "150",
+              "delivery" : "300",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 9" ],
+                "Modelo negocio con categorias 1" : [ "300", null, " 275" ],
+                "modelo negocio 1" : {
+                  "3" : " 80"
+                }
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "1114"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "2" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "puntuado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559600962774,
+                "2_confirmacion_delivery" : 1559601004122,
+                "5_finalizado" : 1559601006993
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "19:29",
+                "2_confirmacion_delivery" : "19:30",
+                "5_finalizado" : "19:30"
+              }
+            }
+          },
+          "31627317" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "19:28 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "150",
+              "delivery" : "300",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 9" ],
+                "Modelo negocio con categorias 1" : [ "300", null, " 275" ],
+                "modelo negocio 1" : {
+                  "3" : " 80"
+                }
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "1114"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "2" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559600891421,
+                "2_confirmacion_delivery" : 1559600899228,
+                "5_finalizado" : 1559600902494
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "19:28",
+                "2_confirmacion_delivery" : "19:28",
+                "5_finalizado" : "19:28"
+              }
+            }
+          },
+          "31656725" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "19:25 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "150",
+              "delivery" : "300",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 9" ],
+                "Modelo negocio con categorias 1" : [ "300", null, " 275" ],
+                "modelo negocio 1" : {
+                  "3" : " 80"
+                }
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "1114"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "2" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "puntuado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559600731449,
+                "2_confirmacion_delivery" : 1559600757809,
+                "5_finalizado" : 1559600760828
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "19:25",
+                "2_confirmacion_delivery" : "19:25",
+                "5_finalizado" : "19:26"
+              }
+            }
+          },
+          "32344833" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "18:56 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "150",
+              "delivery" : "300",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 9" ],
+                "Modelo negocio con categorias 1" : [ "300", null, " 275" ],
+                "modelo negocio 1" : {
+                  "3" : " 80"
+                }
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "1114"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "2" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "puntuado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559599017703,
+                "2_confirmacion_delivery" : 1559599024257,
+                "5_finalizado" : 1559599027586
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "18:56",
+                "2_confirmacion_delivery" : "18:57",
+                "5_finalizado" : "18:57"
+              }
+            }
+          },
+          "32355066" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "18:55 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "150",
+              "delivery" : "300",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 9" ],
+                "Modelo negocio con categorias 1" : [ "300", null, " 275" ],
+                "modelo negocio 1" : {
+                  "3" : " 80"
+                }
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "1114"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "2" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559598907159,
+                "2_confirmacion_delivery" : 1559598922364,
+                "5_finalizado" : 1559598925630
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "18:55",
+                "2_confirmacion_delivery" : "18:55",
+                "5_finalizado" : "18:55"
+              }
+            }
+          },
+          "32401181" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "18:50 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "150",
+              "delivery" : "300",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 9" ],
+                "Modelo negocio con categorias 1" : [ "300", null, " 275" ],
+                "modelo negocio 1" : {
+                  "3" : " 80"
+                }
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "1169"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "2" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559598630960,
+                "2_confirmacion_delivery" : 1559598663366,
+                "5_finalizado" : 1559598666724
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "18:50",
+                "2_confirmacion_delivery" : "18:51",
+                "5_finalizado" : "18:51"
+              }
+            }
+          },
+          "35484149" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:42 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "472"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559587326099,
+                "2_confirmacion_delivery" : 1559587344844,
+                "5_finalizado" : 1559587347808
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:42",
+                "2_confirmacion_delivery" : "15:42",
+                "5_finalizado" : "15:42"
+              }
+            }
+          },
+          "35484820" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:42 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "150",
+              "delivery" : "300",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ null, " 9" ],
+                "Modelo negocio con categorias 1" : [ "300", null, " 275" ],
+                "modelo negocio 1" : {
+                  "3" : " 80"
+                }
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo Negocio 2" : "no",
+                  "Modelo negocio con categorias 1" : "no",
+                  "laorquita" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "1114"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "1" : "Producto= Modelo Producto 1 Precio=  9 ",
+                "estado" : "pedido enviado"
+              },
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "2" : "Producto= Modelo categoria 1 Precio=  275 ",
+                "estado" : "pedido enviado"
+              },
+              "modelo negocio 1" : {
+                "3" : "Producto= Conitos 3d Precio=  80 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559587377300,
+                "2_confirmacion_delivery" : 1559587515321,
+                "5_finalizado" : 1559587518937
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:42",
+                "2_confirmacion_delivery" : "15:45",
+                "5_finalizado" : "15:45"
+              }
+            }
+          },
+          "35797363" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:11 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "450"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "positivo",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559585485699,
+                "2_confirmacion_delivery" : 1559585491857,
+                "5_finalizado" : 1559585503128
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:11",
+                "2_confirmacion_delivery" : "15:11",
+                "5_finalizado" : "15:11"
+              }
+            }
+          },
+          "35803641" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:10 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "472"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "positivo",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559585429380,
+                "2_confirmacion_delivery" : 1559585438127,
+                "5_finalizado" : 1559585450168
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:10",
+                "2_confirmacion_delivery" : "15:10",
+                "5_finalizado" : "15:10"
+              }
+            }
+          },
+          "35826149" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "15:08 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "450"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "positivo",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559585288686,
+                "2_confirmacion_delivery" : 1559585301252,
+                "5_finalizado" : 1559585389733
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "15:08",
+                "2_confirmacion_delivery" : "15:08",
+                "5_finalizado" : "15:09"
+              }
+            }
+          },
+          "36363029" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:54 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "450"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559584449500,
+                "2_confirmacion_delivery" : 1559584465347,
+                "5_finalizado" : 1559584486530
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:54",
+                "2_confirmacion_delivery" : "14:54",
+                "5_finalizado" : "14:54"
+              }
+            }
+          },
+          "36432930" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:47 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "472"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559584046853,
+                "2_confirmacion_delivery" : 1559584113309,
+                "5_finalizado" : 1559584161759
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:47",
+                "2_confirmacion_delivery" : "14:48",
+                "5_finalizado" : "14:49"
+              }
+            }
+          },
+          "36567646" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:34 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "472"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "positivo",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559583277980,
+                "2_confirmacion_delivery" : 1559583387591,
+                "5_finalizado" : 1559583966782
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:34",
+                "2_confirmacion_delivery" : "14:36",
+                "5_finalizado" : "14:46"
+              }
+            }
+          },
+          "36613113" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:29 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "472"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559582949239,
+                "2_confirmacion_delivery" : 1559583071241,
+                "5_finalizado" : 1559583121084
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:29",
+                "2_confirmacion_delivery" : "14:31",
+                "5_finalizado" : "14:32"
+              }
+            }
+          },
+          "36661182" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:24 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "472"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559582664043,
+                "2_confirmacion_delivery" : 1559582798780,
+                "5_finalizado" : 1559582863853
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:24",
+                "2_confirmacion_delivery" : "14:26",
+                "5_finalizado" : "14:27"
+              }
+            }
+          },
+          "36833355" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:07 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "tarjeta",
+              "negocios" : {
+                "Modelo negocio con categorias 1" : [ "300" ]
+              },
+              "pagado" : {
+                "delivery" : "no",
+                "negocios" : {
+                  "Modelo negocio con categorias 1" : "no"
+                },
+                "servicio" : "si"
+              },
+              "total_cobrar" : "472"
+            },
+            "negocios" : {
+              "Modelo negocio con categorias 1" : {
+                "0" : "Producto= Modelo categoria 2 Precio= 300 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "positivo",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559581659489,
+                "2_confirmacion_delivery" : 1559581682287,
+                "5_finalizado" : 1559581685243
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:07",
+                "2_confirmacion_delivery" : "14:08",
+                "5_finalizado" : "14:08"
+              }
+            }
+          }
+        },
+        "4" : {
+          "36327776" : {
+            "cliente" : "2944954574,fyhAwiOSsLZhJM6ioldYqo6IKmY2",
+            "delivery" : "delivery_01",
+            "hora_pedido" : "14:58 ",
+            "lugar_entrega" : "casa",
+            "montos" : {
+              "comision_app" : "50",
+              "delivery" : "100",
+              "forma_de_pago" : "efectivo",
+              "negocios" : {
+                "Modelo Negocio 2" : [ "9", " 220" ]
+              },
+              "pagado" : {
+                "delivery" : "si",
+                "negocios" : {
+                  "ModeloNegocio2" : "no"
+                },
+                "servicio" : "no"
+              },
+              "total_cobrar" : "379"
+            },
+            "negocios" : {
+              "Modelo Negocio 2" : {
+                "0" : "Producto= Modelo Producto 1 Precio= 9 ",
+                "1" : "Producto= Modelo Producto 2 Precio=  220 ",
+                "estado" : "pedido enviado"
+              }
+            },
+            "pedido_en_actividad" : "finalizado",
+            "puntuacion" : "puntuado",
+            "timers" : {
+              "en_ms" : {
+                "1_horario_pedido" : 1559671128239,
+                "2_confirmacion_delivery" : 1559671153898,
+                "5_finalizado" : 1559671168691
+              },
+              "hora_normal" : {
+                "1_horario_pedido" : "14:58",
+                "2_confirmacion_delivery" : "14:59",
+                "5_finalizado" : "14:59"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "precio_delivery" : {
+    "comision_tarjeta" : "1.05",
+    "precio_servicio" : "50"
+  },
+  "usuario" : {
+    "clientes" : {
+      "F2iGzXnk8CcbWHfcGF3l8z9CLfQ2" : {
+        "cantidad_mejoras_bug" : 3,
+        "cantidad_modificaciones" : "0",
+        "pedidos" : {
+          "2019" : {
+            "5" : {
+              "6" : {
+                "-LeDb2413U_LhoeLGqyU" : {
+                  "n_random" : "83437550"
+                },
+                "-LeDbhhAJKvjHQhl4CrI" : {
+                  "n_random" : "83220480"
+                },
+                "-LeDjB27oj5QbbMdNS0P" : {
+                  "n_random" : "75930230"
+                },
+                "-LeDnwqEEAh6TxLnzNr9" : {
+                  "n_random" : "73846450"
+                },
+                "-LeDoZkWRnO6nU0ss6gI" : {
+                  "n_random" : "73520220"
+                },
+                "-LeDoqgS6dtScosUeQEa" : {
+                  "n_random" : "73456690"
+                },
+                "-LeDsAz7XfGsSIYm69cb" : {
+                  "n_random" : "72062210"
+                },
+                "-LeDuFg-6c6568doSCP-" : {
+                  "n_random" : "71114700"
+                },
+                "-LeDv4gBZDzf-rrj2bpD" : {
+                  "n_random" : "77426100"
+                },
+                "-LeDvRcoMmhRoE4051xC" : {
+                  "n_random" : "75174200"
+                }
+              },
+              "7" : {
+                "-LeHkq86XBdPAO-NK0__" : {
+                  "n_random" : "13131203"
+                },
+                "-LeI-N_s6N04FwAPc8Rm" : {
+                  "n_random" : "12575960"
+                },
+                "-LeI3dJyWjh7gRki74os" : {
+                  "n_random" : "11471224"
+                },
+                "-LeI4HIoxLUw5H-WhHSA" : {
+                  "n_random" : "11446974"
+                }
+              }
+            }
+          }
+        },
+        "telefono" : "2944956569",
+        "ubicacion" : {
+          "-LdtTIPB5FxaqE3UrN2y" : {
+            "altura" : "5199",
+            "calle" : "hurón",
+            "descripcion" : "Portón Negro. Llamar Cuando Esté Cerca ",
+            "gps" : "-41.125263,-71.371071",
+            "nombre" : "casa ",
+            "pregunta" : "No",
+            "tipo_domicilio" : "Casa"
+          },
+          "-LenH9Lq2Kahvina6Kek" : {
+            "altura" : "655",
+            "calle" : "gju",
+            "descripcion" : " ",
+            "gps" : "-41.1254426 , -71.3716968",
+            "nombre" : "otra",
+            "pregunta" : " ",
+            "tipo_domicilio" : "elija un tipo de domicilio"
+          }
+        }
+      },
+      "fyhAwiOSsLZhJM6ioldYqo6IKmY2" : {
+        "cantidad_mejoras_bug" : 4,
+        "cantidad_modificaciones" : "2",
+        "pedidos" : {
+          "2019" : {
+            "5" : {
+              "15" : {
+                "-LexWZoj_0DHYqS1wW7m" : {
+                  "n_random" : "55676970"
+                },
+                "-LexYYTsX5Ht6UKEdO43" : {
+                  "n_random" : "54878010"
+                },
+                "-LexZE0jh2kMBoZFVgXB" : {
+                  "n_random" : "54549600"
+                },
+                "-Lex_Rq4vHoVmG-_bt7x" : {
+                  "n_random" : "53964910"
+                }
+              },
+              "19" : {
+                "-LfFYhJRzgECStqD9R_S" : {
+                  "n_random" : "13143143"
+                },
+                "-LfHeIspcdWP1Zenpz_t" : {
+                  "n_random" : "32670910"
+                },
+                "-LfHfIQalIUMkHRV0jUQ" : {
+                  "n_random" : "32224250"
+                }
+              },
+              "22" : {
+                "-LfVs1quYdUus016aumW" : {
+                  "n_random" : "91122360"
+                },
+                "-LfVtKiRdXijyTiTmid9" : {
+                  "n_random" : "96530200"
+                },
+                "-LfVuufIk68Pzuqx69el" : {
+                  "n_random" : "85939350"
+                },
+                "-LfVvY5QOeybFsi4AAbo" : {
+                  "n_random" : "85651820"
+                },
+                "-LfVwm9e9_Mvw4Wv0Cdt" : {
+                  "n_random" : "85157780"
+                },
+                "-LfVxClIhT7kaH4up8Ro" : {
+                  "n_random" : "84961490"
+                },
+                "-LfW0KS56XhM4CPfRC1R" : {
+                  "n_random" : "83141100"
+                },
+                "-LfW3TZzOwG4jSArXjtU" : {
+                  "n_random" : "81724690"
+                },
+                "-LfW4PGtDTJMjDDjwxHE" : {
+                  "n_random" : "81310460"
+                },
+                "-LfW6vZ8gdU1BMX-uLUx" : {
+                  "n_random" : "82464000"
+                }
+              },
+              "29" : {
+                "-Lg3VK7svG3QYI4YzEJW" : {
+                  "n_random" : "11955750"
+                },
+                "-Lg3X0bxI1OrvgDAe3NQ" : {
+                  "n_random" : "11165420"
+                },
+                "-Lg3XK2dyVDt2sVt1gwo" : {
+                  "n_random" : "10605916"
+                },
+                "-Lg4RG4kvgrKFx2h8SC2" : {
+                  "n_random" : "64735900"
+                },
+                "-Lg4TKevUrGSpFGkhmE3" : {
+                  "n_random" : "63860380"
+                }
+              },
+              "30" : {
+                "-Lg8_wBqjlZfRlx5Zs_m" : {
+                  "n_random" : "11262383"
+                },
+                "-Lg8b7svC3AwdaqtLurm" : {
+                  "n_random" : "11213595"
+                },
+                "-Lg8pKWA5J6IUbfBdEB5" : {
+                  "n_random" : "10196742"
+                },
+                "-Lg8sSsHVicvTNRIUhY4" : {
+                  "n_random" : "10543330"
+                },
+                "-Lg8vFiuoTpY1NOxD4xk" : {
+                  "n_random" : "95340640"
+                },
+                "-Lg8wyavo-ysZWx12ZzY" : {
+                  "n_random" : "94529560"
+                },
+                "-Lg9-ItuMfaqKqD-SOd6" : {
+                  "n_random" : "93133330"
+                },
+                "-Lg91SShSSTjIgP0zwp2" : {
+                  "n_random" : "92161640"
+                }
+              }
+            },
+            "6" : {
+              "3" : {
+                "-LgTItDnLeEQb0QMPj-x" : {
+                  "n_random" : "36833355"
+                },
+                "-LgTMiWSkJvqXpN6GZ35" : {
+                  "n_random" : "36661182"
+                },
+                "-LgTNo9_f-zxiMT2cMhB" : {
+                  "n_random" : "36613113"
+                },
+                "-LgTP3PyHegpPjbQqDg-" : {
+                  "n_random" : "36567646"
+                },
+                "-LgTS-7wpEHV2v-P05Cx" : {
+                  "n_random" : "36432930"
+                },
+                "-LgTTXR8Ida6_8sUrsbm" : {
+                  "n_random" : "36363029"
+                },
+                "-LgTWj7-GkdTJm978xUD" : {
+                  "n_random" : "35826149"
+                },
+                "-LgTXGTLtCYQN8GoRUSI" : {
+                  "n_random" : "35803641"
+                },
+                "-LgTXUDPCCkPFIb-xojh" : {
+                  "n_random" : "35797363"
+                },
+                "-LgTdVXm30J1BdSt3-g5" : {
+                  "n_random" : "35484149"
+                },
+                "-LgTdh1nu7Jjpv4pQKDC" : {
+                  "n_random" : "35484820"
+                },
+                "-LgUJcWrhFKrtvlb9MKT" : {
+                  "n_random" : "32401181"
+                },
+                "-LgUKfxo2DdeAJj_sidg" : {
+                  "n_random" : "32355066"
+                },
+                "-LgUL5quV2v28mwnkd2F" : {
+                  "n_random" : "32344833"
+                },
+                "-LgURdKkg0dID4nc-BbW" : {
+                  "n_random" : "31656725"
+                },
+                "-LgUSFOAiK4i7bQB1fz2" : {
+                  "n_random" : "31627317"
+                },
+                "-LgUSWluk--we4bqXoqH" : {
+                  "n_random" : "31615938"
+                }
+              },
+              "4" : {
+                "-LgYdB5a4G2uxnCTlC-6" : {
+                  "n_random" : "36327776"
+                }
+              }
+            }
+          }
+        },
+        "telefono" : "2944954574",
+        "ubicacion" : {
+          "-LexVn1Ypnj8W5fJ3e4F" : {
+            "altura" : "5199",
+            "calle" : "hurón",
+            "descripcion" : " ",
+            "gps" : "-41.1254606 , -71.371662",
+            "nombre" : "casa",
+            "pregunta" : " ",
+            "tipo_domicilio" : "elija un tipo de domicilio"
+          },
+          "-Lg8iyJqyMnC2u_ZmtY4" : {
+            "altura" : "969",
+            "calle" : "mitre",
+            "descripcion" : " ",
+            "gps" : "-41.135041,-71.296527",
+            "nombre" : "trabajo",
+            "pregunta" : " ",
+            "tipo_domicilio" : "elija un tipo de domicilio"
+          }
+        }
+      }
+    },
+    "deliverys" : {
+      "delivery_01" : {
+        "contraseña" : "1234",
+        "estado" : "ok",
+        "telefono" : "12345",
+        "usuario" : "delivery_01"
+      },
+      "delivery_02" : {
+        "contraseña" : "1234",
+        "estado" : "ok",
+        "telefono" : "12345",
+        "usuario" : "delivery_02"
+      }
+    },
+    "negocios" : {
+      "Modelo Negocio 2" : {
+        "contraseña" : "1234",
+        "telefono" : "123",
+        "usuario" : "Modelo Negocio 2"
+      },
+      "Modelo negocio con categorias 1" : {
+        "contraseña" : "1234",
+        "telefono" : "123",
+        "usuario" : "Modelo negocio con categorias 1"
+      },
+      "modelo negocio 1" : {
+        "contraseña" : "1234",
+        "telefono" : "12345",
+        "usuario" : "modelo negocio 1"
+      },
+      "papa_negocio_2" : {
+        "contraseña" : "1234",
+        "telefono" : "123",
+        "usuario" : "papa_negocio_2"
+      }
+    }
+  }
+}

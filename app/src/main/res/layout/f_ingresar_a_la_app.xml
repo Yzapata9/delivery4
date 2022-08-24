@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/fondo"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linear_ingresar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:cropToPadding="true"
+                android:src="@drawable/letras_delivery_bariloche" />
+
+
+
+            <TextView
+                style="@style/texto_de_registro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Gracias por elegirnos\n\n Paso 1 de 2" />
+
+            <TextView
+                style="@style/texto_de_registro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center_horizontal"
+                android:text="Ingrese un telefono"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/edittext_ingresar_numero_telefono"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/input_outline"
+                    android:padding="10dp"
+                    android:hint="ingresar el numero de telefono"
+                    android:inputType="phone" />
+            </LinearLayout>
+
+            <TextView
+                style="@style/texto_de_registro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center_horizontal"
+                android:text="Elija un metodo para ingresar"
+                android:textSize="18sp" />
+
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/login_button_google"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@drawable/input_outline"
+                android:text="ingresar con google"
+                android:textAlignment="center" />
+
+            <Button
+                android:id="@+id/login_button_google_salir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@drawable/input_outline"
+                android:text="salir de la cuenta de google"
+                android:textAlignment="center"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/BTN_login_button_facebook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@drawable/input_outline"
+                android:text="ingresar con facebook"
+                android:textAlignment="center" />
+
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/login_button_facebook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="ingresar con facebook"
+                android:textAlignment="center"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/login_button_numero_de_telefono"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@drawable/input_outline"
+                android:text="ingresar con tu numero de telefono"
+                android:textAlignment="center" />
+
+            <LinearLayout
+                android:id="@+id/linear_ingresar_con_el_numero_de_telefono"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:id="@+id/linear_ingresar_codigo_paso_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <EditText
+                        android:id="@+id/edittext_ingresar_codigo_de_verificacion"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:hint="ingresar el codigo " />
+
+                    <Button
+                        android:id="@+id/bnt_verificacion_paso_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/input_outline"
+                        android:text="ingresar" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/linear_ingresar"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:visibility="gone">
+
+
+            <TextView
+                android:id="@+id/textView3"
+                style="@style/texto_de_registro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="opciones sin estar ingresad@="
+                android:textAlignment="center"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/btn_ingresar_a_la_app_ver_mapas"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@drawable/input_outline"
+                android:text="Ver en el mapa donde el servicio esta disponible" />
+
+            <Button
+                android:id="@+id/btn_ingresar_a_la_app_ver_negocios"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@drawable/input_outline"
+                android:text="Ver los negocios que estan disponibles" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

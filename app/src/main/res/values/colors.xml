@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffcac5</color>
+    <color name="colorPrimaryDark">#570300</color>
+    <color name="colorAccent">#ffcac5</color>
+
+    <color name="negro">#000000</color>
+    <color name="gris">#515151</color>
+
+    <color name="color_lineas_boton">#f12a70</color>
+    <color name="fondo_listview">#ffffff</color>
+    <color name="fondo_botones_agregar_productos">#ededed</color>
+
+    <color name="productos_row_linea">#f12a70</color>
+    <color name="productos_row_fondo">#8cffffff</color>
+
+    <color name="carrito_fondo">#8cffffff</color>
+    <color name="carrito_linea">#0011ff</color>
+
+    <color name="blanco_transparente">#94ffffff</color>
+
+    <color name="blanco">#ffffff</color>
+    <color name="transparente">#00ffffff</color>
+
+    <color name="fondo">#7bffcac5</color>
+    <color name="fondo_rosado_intenso">#ffcac5</color>
+    <color name="fondo_rosado_claro">#ffe9e7</color>
+
+    <color name="confirmacion_fondo_opcion_elegida">#ffcac5</color>
+
+</resources>
